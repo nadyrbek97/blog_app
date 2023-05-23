@@ -2,8 +2,8 @@
   "version": "2.0.3",
   "summary": {
     "title": "New Threat Model",
-    "owner": "",
-    "description": "",
+    "owner": "asdfasdf",
+    "description": "asdfasdfasdfasdf",
     "id": 0
   },
   "detail": {
@@ -19,7 +19,7 @@
       }
     ],
     "diagramTop": 1,
-    "reviewer": "",
+    "reviewer": "asdfasdf",
     "threatTop": 0
   }
 }
